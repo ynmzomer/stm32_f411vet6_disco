@@ -1,7 +1,7 @@
 /*
  * Project: 013led_toggle_bitfields
  * Description: Basic STM32 project demonstrating fundamental concepts.
- * Author: Betül Atalay
+ * Author: omery
  */
 
 /**
