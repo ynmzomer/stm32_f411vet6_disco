@@ -2,7 +2,7 @@
  * File: 010i2c_master_rx_test_IT.c
  * Description: STM32F411 driver test application.
  * Purpose: This file contains code to test custom driver implementations for GPIO, SPI, I2C, and UART.
- * Author: Betül Atalay
+ * Author: omery
  */
 
 #include<stdio.h>
