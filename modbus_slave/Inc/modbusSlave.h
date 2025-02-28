@@ -1,8 +1,8 @@
 /*
  * modbusSlave.h
  *
- *  Created on: Oct 27, 2022
- *      Author: controllerstech.com
+ *  Created on: JAN 01, 2025
+ *      Author: omery
  */
 
 #ifndef INC_MODBUSSLAVE_H_
