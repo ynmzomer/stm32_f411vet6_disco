@@ -1,7 +1,7 @@
 /*
  * Project: 009hsimeasurments
  * Description: Basic STM32 project demonstrating fundamental concepts.
- * Author: Betül Atalay
+ * Author: omery
  */
 
 /**
