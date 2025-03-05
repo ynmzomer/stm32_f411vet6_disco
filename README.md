@@ -17,10 +17,9 @@ Numaralandırılmış klasörler (`000TestProject`, `002sizeof`, `003Add`, ... v
 - **`stm32f411_drivers`**: Bu klasör, GPIO, UART, SPI ve I2C sürücülerini ve bunların uygulama kodlarını içermektedir.
 - Tüm sürücüler, **herhangi bir hazır kütüphane (HAL veya LL) kullanılmadan**, doğrudan **reference manual** incelenerek yazılmıştır.
 - Mikrodenetleyicinin donanımına doğrudan erişerek **register bazlı bir sürücü geliştirme** süreci uygulanmıştır.
-Aşağıda README dosyanın İngilizce versiyonunu hazırladım:
 
 ---
-
+EN
 # Project Description
 
 This repository contains **register-level test applications** and **driver development** for the STM32F411 microcontroller. All implementations were written from scratch, strictly following the **STMicroelectronics Reference Manual**.
